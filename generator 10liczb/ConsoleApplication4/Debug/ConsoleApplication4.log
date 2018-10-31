@@ -1,0 +1,3 @@
+﻿  losoweliczby.cpp
+c:\users\student\source\repos\6576f225-gr25-repo\generator 10liczb\consoleapplication4\losoweliczby.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\Student\Source\Repos\6576f225-gr25-repo\generator 10liczb\Debug\ConsoleApplication4.exe
